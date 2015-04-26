@@ -30,10 +30,16 @@ Example Usage:
 '''
 
 def square(number=1):
+    '''returns the square of a number'''
     return number * number
+
+def cube(number=1):
+    '''returns the cube of a number'''
+    return number * number * number
+
 
 if __name__ == '__main__':
     print( 'square of 2' )
     print( square(2) )
-
-# 
+    print( 'cube of 2' )
+    print( cube(2) )
