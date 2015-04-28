@@ -16,30 +16,37 @@ power(number, power)
 
 Example Usage:
 >>> import powerpractice
->>> square(2)
+>>> powerpractice.square(2)
 4
->>> cube(2)
+>>> powerpractice.cube(2)
 8
->>> root(9)
+>>> powerpractice.root(9)
 3
->>> power(9,0.5)
+>>> powerpractice.power(9,0.5)
 3
->>> power(3,2)
+>>> powerpractice.power(3,2)
 9
 
 '''
 
 def square(number=1):
-    '''returns the square of a number'''
+    '''Return the square of the number.'''
     return number * number
 
 def cube(number=1):
-    '''returns the cube of a number'''
+    '''Return the cube of the number.'''
     return number * number * number
 
+def power(number=1,power=1):
+    '''Return the number raised to the power.'''
+    return number ** power
 
 if __name__ == '__main__':
     print( 'square of 2' )
     print( square(2) )
     print( 'cube of 2' )
     print( cube(2) )
+    print( '2 to the power of 2')
+    print( power(2,2) )
+    print( '81 to the power of 0.5 (square root of 81, that is)')
+    print( power(81,0.5) )
