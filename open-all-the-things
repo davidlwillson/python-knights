@@ -1,0 +1,16 @@
+#!/bin/bash -eu
+
+# open reference materials
+xdg-open http://www.diveintopython3.net
+xdg-open https://docs.python.org/3.5/tutorial/index.html
+
+# open ancillary web-pages?
+# http://learnpythonthehardway.org/
+# https://docs.python.org/2/tutorial/index.html
+
+# git repositories of students
+xdg-open https://github.com/jscelza/PythonKnightsSG
+xdg-open https://github.com/barahon/python-knights
+xdg-open https://github.com/matuse/MJPKSG
+xdg-open https://github.com/phoemke/python-sfs
+
