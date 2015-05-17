@@ -33,6 +33,10 @@ def square(number=1):
     '''Return the square of the number.'''
     return number * number
 
+def root(number=1):
+    '''Return the square root of the number.'''
+    return number ** 0.5
+
 def cube(number=1):
     '''Return the cube of the number.'''
     return number * number * number
@@ -46,7 +50,9 @@ if __name__ == '__main__':
     print( square(2) )
     print( 'cube of 2' )
     print( cube(2) )
-    print( '2 to the power of 2')
-    print( power(2,2) )
-    print( '81 to the power of 0.5 (square root of 81, that is)')
+    print( '2 to the power of 16')
+    print( power(2,16) )
+    print( '81 to the power of 0.5')
     print( power(81,0.5) )
+    print( 'square root of 81')
+    print( root(81) )
