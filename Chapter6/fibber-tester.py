@@ -1,9 +1,9 @@
-from fibber import fib
+from fibber import fib, fibsteps
 
 for n in fib(1000):
     print(n, end=' ')
 
+print("\n---\n")
 
-for step in range(1,100):
-    print('step = %s', step)
-    print(fib())
+for m in fibsteps(100):
+    print('m =',m , end=',')
