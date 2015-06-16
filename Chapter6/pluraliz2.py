@@ -23,7 +23,5 @@ if __name__ == '__main__':
     else:
         print(__doc__)
 
-# fun for testing:
-# grep -i quit /usr/share/dict/words | while read word
-#   do python3 pluralize.py $word
-#   done | less
+# fun for testing
+# grep -i quit /usr/share/dict/words | while read word; do python3 pluralize.py $word; done | less
