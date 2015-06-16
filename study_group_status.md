@@ -5,7 +5,34 @@ Plan
 
 2015-06-22 : Session 07 of 12 : Chapters 7 and 8 :  Classes, Iterators, and Advanced Iterators
 
-Done
+
+References
+---
+
+http://www.diveintopython3.net
+
+https://docs.python.org/3.5/tutorial/index.html
+
+http://learnpythonthehardway.org/
+
+https://docs.python.org/2/tutorial/index.html
+
+http://www.greenteapress.com/thinkpython/html/index.html
+
+
+Knights' Repositories
+---
+
+https://github.com/jscelza/PythonKnightsSG
+
+https://github.com/barahon/python-knights
+
+https://github.com/matuse/MJPKSG
+
+https://github.com/phoemke/python-sfs
+
+
+Completed Sessions
 ---
 
 [ 2015-06-15 : Session 06 of 12 : Chapter 6 : Closures and Generators ]
@@ -28,5 +55,3 @@ Done
 
 [ 2015-04-20 : Session 00 of 12 : Logistics discussion only ]
 ( http://107.189.32.195/playback/presentation/0.9.0/playback.html?meetingId=45667d58fbc1fe400a469467e7254fe610aa95d9-1429577220673 )
-
-
