@@ -33,3 +33,14 @@ def plural(noun):
         if matches_rule(noun):
             return apply_rule(noun)
 
+if __name__ == '__main__':
+    import sys
+    if sys.argv[1:]:
+        print(plural(sys.argv[1]))
+    else:
+        print(__doc__)
+
+# fun for testing:
+# grep -i quit /usr/share/dict/words | while read word
+#   do python3 plural.py $word
+#   done | less
