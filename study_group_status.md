@@ -48,7 +48,7 @@ Completed Sessions
 ( http://107.189.32.195/playback/presentation/0.9.0/playback.html?meetingId=45667d58fbc1fe400a469467e7254fe610aa95d9-1431391429818 )
 
 2015-05-04 : Session 02 of 12 : Chapter 2 : Native Datatypes
-(DLW botched the recording)
+(Willson botched the recording)
 
 [ 2015-04-27 : Session 01 of 12 : Chapters -1, 0, 1 : What's New, Installing, Your 1st Program ]
 ( http://107.189.32.195/playback/presentation/0.9.0/playback.html?meetingId=45667d58fbc1fe400a469467e7254fe610aa95d9-1430181281991 )
