@@ -1,9 +1,11 @@
 Plan
 ---
 
-2015-06-29 : Session 08 of 12 : Chapters 9 and 10 : Unit Testing and Refactoring
+2015-07-27 : Session 12 of 12 : Appendixes : Other Stuph
 
-2015-06-22 : Session 07 of 12 : Chapters 7 and 8 :  Classes, Iterators, and Advanced Iterators
+2015-07-20 : Session 11 of 12 : Chapters 15 and 16 : Case Study and Packaging
+
+2015-07-13 : Session 10 of 12 : Chapters 13 and 14 : Serializing and Web Services
 
 
 References
@@ -34,6 +36,14 @@ https://github.com/phoemke/python-sfs
 
 Completed Sessions
 ---
+[ 2015-07-06 : Session 09 of 12 : Chapters 11 and 12 : Files and XML ]
+( http://107.189.32.195/playback/presentation/0.9.0/playback.html?meetingId=45667d58fbc1fe400a469467e7254fe610aa95d9-1436231041999 )
+
+[ 2015-06-29 : Session 08 of 12 : Chapters 9 and 10 : Unit Testing and Refactoring ]
+( http://107.189.32.195/playback/presentation/0.9.0/playback.html?meetingId=45667d58fbc1fe400a469467e7254fe610aa95d9-1435626019782 )
+
+[ 2015-06-22 : Session 07 of 12 : Chapters 7 and 8 :  Classes, Iterators, and Advanced Iterators ]
+( http://107.189.32.195/playback/presentation/0.9.0/playback.html?meetingId=45667d58fbc1fe400a469467e7254fe610aa95d9-1435020811579 )
 
 [ 2015-06-15 : Session 06 of 12 : Chapter 6 : Closures and Generators ]
 ( http://107.189.32.195/playback/presentation/0.9.0/playback.html?meetingId=45667d58fbc1fe400a469467e7254fe610aa95d9-1434416376773 )
